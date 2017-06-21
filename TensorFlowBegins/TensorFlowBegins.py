@@ -1,1 +1,5 @@
-   
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca (score = 0.88493)
+indri, indris, Indri indri, Indri brevicaudatus (score = 0.00878)
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens (score = 0.00317)
+custard apple (score = 0.00149)
+earthstar (score = 0.00127)
